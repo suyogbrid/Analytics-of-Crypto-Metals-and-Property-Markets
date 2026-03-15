@@ -206,11 +206,28 @@ The system follows a layered ETL architecture:
 
 <h2>9. Screenshots / Demos</h2>
 
+Dashboard Overview:
+
 ![Dashboard Overview](https://github.com/suyogbrid/Analytics-of-Crypto-Metals-and-Property-Markets/blob/main/Dashboard%20Overview.png)
+
+Property Visuals:
+
 ![Property Visuals](https://github.com/suyogbrid/Analytics-of-Crypto-Metals-and-Property-Markets/blob/main/Property%20Visuals.png)
+
+Metals Visuals:
+
 ![Metals Visuals](https://github.com/suyogbrid/Analytics-of-Crypto-Metals-and-Property-Markets/blob/main/Metals%20Visuals.png)
+
+Crypto Visuals:
+
 ![Crypto Visuals](https://github.com/suyogbrid/Analytics-of-Crypto-Metals-and-Property-Markets/blob/main/Crypto%20Visuals.png)
+
+Multi-Asset Analytics:
+
 ![Multi-Asset Analytics](https://github.com/suyogbrid/Analytics-of-Crypto-Metals-and-Property-Markets/blob/main/Multi-Asset%20Analytics.png)
+
+Dagster ETL pipeline:
+
 ![Dagster ETL pipeline](https://github.com/suyogbrid/Analytics-of-Crypto-Metals-and-Property-Markets/blob/main/ETL%20pipeline.png)
 
 
